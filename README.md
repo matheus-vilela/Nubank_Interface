@@ -38,7 +38,7 @@
 
 This project was developed with the following technologies:
 
--  [Expo-CLI](https://expo.io/)
+-  [Expo](https://expo.io/)
 -  [React Native](http://facebook.github.io/react-native/)
 -  [React Native Gesture Handler](https://kmagiera.github.io/react-native-gesture-handler/)
 -  [React Native SVG](https://github.com/react-native-community/react-native-svg)
@@ -47,13 +47,13 @@ This project was developed with the following technologies:
 
 ## :construction: Prerequisites
 
-In order to use and test the mobile app on a simulator or on your smartphone, you should've already setup the development environment for React Native/Expo-CLI applications. You can follow the following article (PT-BR) to setup your environment:
+In order to use and test the mobile app on a simulator or on your smartphone, you should've already setup the development environment for React Native/Expo applications. You can follow the following article (PT-BR) to setup your environment:
 
 [Emulating React Native on iOS/Android with Expo](https://www.youtube.com/watch?v=eSjFDWYkdxM&vl=pt)
   
 ##  :checkered_flag: How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Expo-CLI v37.0.3][expo] or higher installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Expo v37.0.3][expo] or higher installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
